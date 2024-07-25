@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# Production Capacity vs Sales demand Dashboard
 
 ## Description
 This dashboard provides insights into employee attrition, job satisfaction, and job roles within the company.
