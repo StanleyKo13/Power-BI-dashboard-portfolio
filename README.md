@@ -4,7 +4,7 @@
 This dashboard provides insights into employee attrition, job satisfaction, and job roles within the company.
 
 ## Dashboard Preview
-![Capacity Scheduling Dashboard Overview](./images/Capacity_Scheduling.png)
+![Capacity Scheduling Dashboard Overview](./images/Capacity_Scheduling-1.jepg)
 
 ## Key Visualizations
 
