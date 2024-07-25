@@ -29,7 +29,3 @@ A heatmap displaying job satisfaction levels across various job roles.
 - Job satisfaction is generally high among senior roles.
 - There's a correlation between overtime and attrition rates.
 
-## How to Use
-1. Download the `HR-Analytics.pbix` file.
-2. Open it in Power BI Desktop.
-3. Explore the various reports and visualizations.
