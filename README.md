@@ -3,13 +3,26 @@
 ## Description
 This dashboard provides insights into employee attrition, job satisfaction, and job roles within the company.
 
+## Dashboard Preview
+![HR Analytics Dashboard Overview](./images/hr-dashboard-overview.png)
+
+## Key Visualizations
+
+### Employee Attrition
+![Attrition Chart](./images/attrition-chart.png)
+This chart shows the attrition rate across different departments.
+
+### Job Satisfaction
+![Job Satisfaction Heatmap](./images/job-satisfaction-heatmap.png)
+A heatmap displaying job satisfaction levels across various job roles.
+
 ## Data Sources
 - Employee data from the company's HR database.
 
 ## Key Insights
-- Attrition count of employees.
-- Job satisfaction rates.
-- Distribution of job roles.
+- Attrition is highest in the Sales department.
+- Job satisfaction is generally high among senior roles.
+- There's a correlation between overtime and attrition rates.
 
 ## How to Use
 1. Download the `HR-Analytics.pbix` file.
