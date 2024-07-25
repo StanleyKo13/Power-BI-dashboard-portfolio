@@ -1,7 +1,7 @@
 # Power BI Portfolio Projects
-
-#About Me
-
+---
+# About Me
+---
 # Production Capacity vs Sales demand Dashboard
 
 ## Description
