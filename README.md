@@ -4,7 +4,7 @@
 This dashboard provides insights into employee attrition, job satisfaction, and job roles within the company.
 
 ## Dashboard Preview
-![HR Analytics Dashboard Overview](./images/hr-dashboard-overview.png)
+![Capacity Scheduling Dashboard Overview](./images/Capacity Scheduling.png)
 
 ## Key Visualizations
 
