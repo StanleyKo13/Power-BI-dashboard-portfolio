@@ -6,9 +6,9 @@ Highly skilled Supply Chain Professional with 6+ years of experience in demand p
 # Production Capacity vs Sales demand Dashboard
 
 ## Description
-This dashboard provides insights into employee attrition, job satisfaction, and job roles within the company.
+This dashboard provides insights into weekly production capacity, forecast demand volume, and product delivery leadtime within the company.
 
-## Dashboard Preview
+## Dashboard
 ![Capacity Scheduling Dashboard Overview](Capacity_Scheduling.png)
 
 ## Key Visualizations
@@ -22,7 +22,9 @@ This chart shows the attrition rate across different departments.
 A heatmap displaying job satisfaction levels across various job roles.
 
 ## Data Sources
-- Employee data from the company's HR database.
+- Sales ordes forecast by different product type.
+- Prodcution capacity by different shift and line.
+- Workday calendar
 
 ## Key Insights
 - Attrition is highest in the Sales department.
