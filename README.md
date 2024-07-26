@@ -13,9 +13,9 @@ This tool present job attainment insights that helps manufacturing companies mon
 
 ## Key Insights
 
-####-Real-time tracking of production progress compared to scheduled targets.
-####-Identification of delays or bottlenecks in the production process.
-####-Historical data to show trends in schedule attainment over time.
+#### -Real-time tracking of production progress compared to scheduled targets.
+#### -Identification of delays or bottlenecks in the production process.
+#### -Historical data to show trends in schedule attainment over time.
 
 # . Available to Promise analysis tool
 
@@ -27,8 +27,8 @@ This tool present calculates the quantity of a product that is available for cus
 
 ## Key Insights
 
-####-Material supply leadtime by different components and buyers
-####-The available date for new sales orders.
+#### -Material supply leadtime by different components and buyers
+#### -The available date for new sales orders.
   
 # . Demand and Supply Chain Horizontal Dashboard
 
@@ -40,8 +40,8 @@ This dashboard provides visualize and manage the intricate balance between deman
 
 ## Key Insights
 
-####-Balance of finished goods and components inventory status
-####-Weekly supply chain overview for each components
+#### -Balance of finished goods and components inventory status
+#### -Weekly supply chain overview for each components
 
 # . Production Capacity vs Sales demand Dashboard
 
@@ -53,8 +53,8 @@ This dashboard provides insights into production capacity, forecast demand volum
 
 ## Key Insights
 
-####-Production Capacity by weekly
-####-Finish goods delivery leadtime
+#### -Production Capacity by weekly
+#### -Finish goods delivery leadtime
 
 
 
