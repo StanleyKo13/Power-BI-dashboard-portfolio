@@ -1,28 +1,58 @@
 # Power BI Portfolio Projects
 
 # About Me
-Highly skilled Supply Chain Professional with 6+ years of experience in demand planning, capacity management, and end-to-end supply chain optimization. Proven track record of implementing data-driven solutions, managing complex assemblies, and driving operational efficiency in fast-paced complex mechanical manufacturing environments. Adept at cross-functional collaboration and leveraging ERP systems to ensure on-time delivery and quality standards.
+I am a seasoned Power BI expert with over 6 years of experience in data visualization and business intelligence. My advanced skills include complex DAX formulas, efficient data modeling, and sophisticated data transformation using Power Query. I excel in creating custom visuals, optimizing performance, and integrating Power BI with various platforms. My passion lies in transforming raw data into actionable insights, enabling data-driven decision-making for organizations. 
 
+# . Production schedule attainment review dashboard
+
+## Description
+This tool present job attainment insights that helps manufacturing companies monitor and analyze their production performance against planned schedules. Visual representation of schedule adherence, using charts and graphs to show planned vs. actual production. Performance indicators for different production lines, departments, and products.
+
+## Dashboard
+![Plan attainment dashboard](Capacity_Scheduling.png)
+
+## Key Insights
+
+### Real-time tracking of production progress compared to scheduled targets.
+This chart shows the prodcution line capacity for different product type as workday calendar.
+
+### Identification of delays or bottlenecks in the production process.
+This chart shows the delivery leadtime for each product type under capacity limit.
+
+### Historical data to show trends in schedule attainment over time.
+This chart shows the delivery leadtime for each product type under capacity limit.
+
+# . Available to Promise analysis tool
+
+## Description
+This tool present calculates the quantity of a product that is available for customer orders. It takes into account current inventory, material supply leadtime, planned production, and existing customer orders.
+
+## Dashboard
+![ATP tool](Capacity_Scheduling.png)
+
+## Key Insights
+
+### Material supply leadtime by different components and buyers
+This chart shows the prodcution line capacity for different product type as workday calendar.
+
+### The available date for new sales orders.
+This chart shows the delivery leadtime for each product type under capacity limit.
+
+  
 # . Demand and Supply Chain Horizontal Dashboard
 
 ## Description
-This dashboard provides insights into production capacity, forecast demand volume, and product delivery leadtime within the company.
+This dashboard provides visualize and manage the intricate balance between demand and supply within an organization. includes all of the components and features to provide comprehensive insights into the supply chain by weekly demand and supply.
 
 ## Dashboard
 ![Horizontal report detail](Capacity_Scheduling.png)
 
-## Key Visualizations
+## Key Insights
 
-### Production Capacity by weekly
+### Balance of finished goods and components inventory status
 This chart shows the prodcution line capacity for different product type as workday calendar.
-
-### Finish goods delivery leadtime
+### Weekly supply chain overview per each components
 This chart shows the delivery leadtime for each product type under capacity limit.
-
-## Data Sources
-- Sales ordes forecast by different product type.
-- Prodcution capacity by different shift and line.
-- Workday calendar
 
 
 # . Production Capacity vs Sales demand Dashboard
@@ -33,7 +63,7 @@ This dashboard provides insights into production capacity, forecast demand volum
 ## Dashboard
 ![Capacity Scheduling Dashboard Overview](Capacity_Scheduling.png)
 
-## Key Visualizations
+## Key Insights
 
 ### Production Capacity by weekly
 This chart shows the prodcution line capacity for different product type as workday calendar.
@@ -41,9 +71,5 @@ This chart shows the prodcution line capacity for different product type as work
 ### Finish goods delivery leadtime
 This chart shows the delivery leadtime for each product type under capacity limit.
 
-## Data Sources
-- Sales ordes forecast by different product type.
-- Prodcution capacity by different shift and line.
-- Workday calendar
 
 
