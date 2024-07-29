@@ -9,7 +9,7 @@ I am a seasoned Power BI expert with over 6 years of experience in data visualiz
 This tool present job attainment insights that helps manufacturing companies monitor and analyze their production performance against planned schedules. Visual representation of schedule adherence, using charts and graphs to show planned vs. actual production. Performance indicators for different production lines, departments, and products.
 
 ## Dashboard
-![Plan attainment dashboard](Capacity_Scheduling.png)
+![Plan attainment dashboard](Production_Attainment_Review_overview.png)
 
 ## Key Insights
 
@@ -23,7 +23,7 @@ This tool present job attainment insights that helps manufacturing companies mon
 This tool present calculates the quantity of a product that is available for customer orders. It takes into account current inventory, material supply leadtime, planned production, and existing customer orders.
 
 ## Dashboard
-![ATP tool](Capacity_Scheduling.png)
+![ATP tool](ATP_tool.png)
 
 ## Key Insights
 
@@ -36,7 +36,7 @@ This tool present calculates the quantity of a product that is available for cus
 This dashboard provides visualize and manage the intricate balance between demand and supply within an organization. includes all of the components and features to provide comprehensive insights into the supply chain by weekly demand and supply.
 
 ## Dashboard
-![Horizontal report detail](Capacity_Scheduling.png)
+![Horizontal report detail](Horizontal_Report_Details.png)
 
 ## Key Insights
 
