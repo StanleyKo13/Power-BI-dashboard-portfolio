@@ -25,7 +25,7 @@ This tool present job attainment insights that helps manufacturing companies mon
 
 
 ## Dashboard
-![Demand Planning tool](Demand Planning overview.png)
+![Demand Planning tool]
 
 ## Key Insights
 
