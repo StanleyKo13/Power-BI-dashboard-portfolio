@@ -25,7 +25,7 @@ This tool present job attainment insights that helps manufacturing companies mon
 This tool present calculates the quantity of a product that is available for customer orders. It takes into account current inventory, material supply leadtime, planned production, and existing customer orders.
 
 ## Dashboard
-![Demand Planning tool](Demand Planning overview.png)
+![Demand Planning tool](Demand Planing overview.png)
 
 ## Key Insights
 
