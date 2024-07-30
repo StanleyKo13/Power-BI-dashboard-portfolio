@@ -59,20 +59,7 @@ This tool present calculates the quantity of a product that is available for cus
 #### -Material supply leadtime by different components and buyers
 #### -The available date for new sales orders.
   
-# 5. Demand and Supply Chain Horizontal Dashboard
-
-## Description
-This dashboard provides visualize and manage the intricate balance between demand and supply within an organization. includes all of the components and features to provide comprehensive insights into the supply chain by weekly demand and supply.
-
-## Dashboard
-![Horizontal report detail](Horizontal_Report_Details.png)
-
-## Key Insights
-
-#### -Balance of finished goods and components inventory status
-#### -Weekly supply chain overview for each components
-
-# 6. Key customers capacity allocation project dashboard
+# 5. Key customers capacity allocation project dashboard
 
 ## Description
 
@@ -87,7 +74,7 @@ This dashboard provides visualize and manage the intricate balance between deman
 #### -
 #### -
 
-# 7. Production Capacity vs Sales demand Dashboard
+# 6. Production Capacity vs Sales demand Dashboard
 
 ## Description
 This dashboard provides insights into production capacity, forecast demand volume, and product delivery leadtime within the company.
