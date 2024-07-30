@@ -19,10 +19,10 @@ This tool present job attainment insights that helps manufacturing companies mon
 #### -Historical data to show trends in schedule attainment over time.
 #### -Breakdown work orders missed reason and responsibility by week.
 
-# . Forecast demand planning outlook
+# . Forecast Demand planning outlook
 
 ## Description
-This tool present calculates the quantity of a product that is available for customer orders. It takes into account current inventory, material supply leadtime, planned production, and existing customer orders.
+
 
 ## Dashboard
 ![Demand Planning tool](Demand Planning overview.png)
@@ -31,6 +31,20 @@ This tool present calculates the quantity of a product that is available for cus
 
 #### -
 #### -
+
+# . Material shortage overview
+
+## Description
+
+
+## Dashboard
+![Material shortage overview](Material shortage overview.png)
+
+## Key Insights
+
+#### -
+#### -
+
 
 # . Available to Promise analysis tool
 
