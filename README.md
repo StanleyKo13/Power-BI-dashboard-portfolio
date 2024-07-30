@@ -78,9 +78,9 @@ This dashboard provides visualize and manage the intricate balance between deman
 
 
 ## Dashboard
-![Key customer demand review](Key customer demand review.png)
-![Customer demand percentage by product type](Customer demand percentage by product type.png)
-![Key customer demand booking status](Key customer demand booking status.png)
+![Key customer demand review](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Key%20customer%20demand%20review.png)
+![Customer demand percentage by product type](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Customer%20demand%20percentage%20by%20product%20type.png)
+![Key customer demand booking status](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Key%20customer%20demand%20booking%20status.png)
 
 ## Key Insights
 
@@ -93,8 +93,8 @@ This dashboard provides visualize and manage the intricate balance between deman
 This dashboard provides insights into production capacity, forecast demand volume, and product delivery leadtime within the company.
 
 ## Dashboard
+![Demand vs Capacity monthly review](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Demand%20vs%20Capacity%20monthly%20review.png)
 ![Capacity Scheduling Dashboard Overview](Capacity_Scheduling.png)
-![Demand vs Capacity monthly review](Demand vs Capacity monthly review.png)
 
 ## Key Insights
 
