@@ -72,6 +72,21 @@ This dashboard provides visualize and manage the intricate balance between deman
 #### -Balance of finished goods and components inventory status
 #### -Weekly supply chain overview for each components
 
+# . Key customers capacity allocation project dashboard
+
+## Description
+
+
+## Dashboard
+![Key customer demand review](Key customer demand review.png)
+![Customer demand percentage by product type](Customer demand percentage by product type.png)
+![Key customer demand booking status](Key customer demand booking status.png)
+
+## Key Insights
+
+#### -
+#### -
+
 # . Production Capacity vs Sales demand Dashboard
 
 ## Description
@@ -79,6 +94,7 @@ This dashboard provides insights into production capacity, forecast demand volum
 
 ## Dashboard
 ![Capacity Scheduling Dashboard Overview](Capacity_Scheduling.png)
+![Demand vs Capacity monthly review](Demand vs Capacity monthly review.png)
 
 ## Key Insights
 
