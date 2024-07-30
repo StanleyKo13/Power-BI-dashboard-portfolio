@@ -25,7 +25,7 @@ This tool present job attainment insights that helps manufacturing companies mon
 
 
 ## Dashboard
-![Demand Planning tool]
+![Demand Planning tool]([Demand Planning overview.png](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Demand%20Planning%20overview.png))
 
 ## Key Insights
 
