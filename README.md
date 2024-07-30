@@ -10,12 +10,14 @@ This tool present job attainment insights that helps manufacturing companies mon
 
 ## Dashboard
 ![Plan attainment dashboard](Production_Attainment_Review_overview.png)
+![Job miss reason](Job_miss_reason_breakdown.png)
 
 ## Key Insights
 
 #### -Real-time tracking of production progress compared to scheduled targets.
 #### -Identification of delays or bottlenecks in the production process.
 #### -Historical data to show trends in schedule attainment over time.
+#### -Breakdown work orders missed reason and responsibility by week.
 
 # . Available to Promise analysis tool
 
