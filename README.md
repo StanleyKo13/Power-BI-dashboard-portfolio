@@ -38,7 +38,7 @@ This tool present job attainment insights that helps manufacturing companies mon
 
 
 ## Dashboard
-![Material shortage overview](Material shortage overview.png)
+![Material shortage overview](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Material%20shortage%20overview.png)
 
 ## Key Insights
 
