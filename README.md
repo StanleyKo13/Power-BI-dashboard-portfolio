@@ -50,7 +50,7 @@ To provide a comprehensive view of material shortages across an organization's s
 #### -Highlights suppliers associated with frequent or significant shortages.
 #### -Incorporates demand forecasts to predict potential future shortages.
 
-# 4. Available to Promise analysis tool
+# 4. Available to Promise Analysis Tool
 
 ## Description
 This tool present calculates the quantity of a product that is available for customer orders. It takes into account current inventory, material supply leadtime, planned production, and existing customer orders.
@@ -65,7 +65,7 @@ This tool present calculates the quantity of a product that is available for cus
 #### -Displays the real-time quantity of components available in inventory.
 #### -Visualizes the timing and quantity of expected inventory arrivals.
   
-# 5. Key customers capacity allocation project dashboard
+# 5. Key Customers Capacity Allocation Project
 
 ## Description
 To manage and visualize the allocation of resources to key customers within a project. Provides insights into how resources are distributed, ensuring that critical customers receive the necessary attention and capacity.
@@ -82,7 +82,7 @@ To manage and visualize the allocation of resources to key customers within a pr
 #### -Ensures that high-priority customers are given adequate capacity.
 #### -Helps in understanding past allocation patterns and planning future capacity needs.
 
-# 6. Production Capacity vs Sales demand Dashboard
+# 6. Production Capacity vs Sales Order Demand
 
 ## Description
 Compares and analyzes the relationship between production capabilities and demand for products. Helps businesses optimize operations by aligning production with sales requirements. 
