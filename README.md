@@ -71,7 +71,6 @@ This tool present calculates the quantity of a product that is available for cus
 To manage and visualize the allocation of resources to key customers within a project. Provides insights into how resources are distributed, ensuring that critical customers receive the necessary attention and capacity.
 
 ## Dashboard
-![Key customer demand review](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Key%20customer%20demand%20review.png)
 ![Customer demand percentage by product type](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Customer%20demand%20percentage%20by%20product%20type.png)
 ![Key customer demand booking status](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Key%20customer%20demand%20booking%20status.png)
 
