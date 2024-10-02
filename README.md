@@ -50,7 +50,7 @@ To provide a comprehensive view of material shortages across an organization's s
 #### -Highlights suppliers associated with frequent or significant shortages.
 #### -Incorporates demand forecasts to predict potential future shortages.
 
-# 4. Available to Promise Analysis Tool
+# 4. Available to Promise Analytical Tool
 
 ## Description
 This tool present calculates the quantity of a product that is available for customer orders. It takes into account current inventory, material supply leadtime, planned production, and existing customer orders.
