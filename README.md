@@ -17,9 +17,12 @@ Power BI (Advanced DAX), SQL.
 
 ## Key Business Impact
 
-#### -Root Cause Identification: Categorizes "Job Miss" reasons (e.g., material shortage, headcount, equipment) to drive data-driven accountability across departments.
-#### -Performance Transparency: Provides real-time visibility into production adherence, reducing manual reporting time by 25%.
-#### -Decision Support: Enables managers to identify bottlenecks instantly and reallocate resources to maintain delivery commitments.
+#### -Root Cause Identification: 
+Categorizes "Job Miss" reasons (e.g., material shortage, headcount, equipment) to drive data-driven accountability across departments.
+#### -Performance Transparency: 
+Provides real-time visibility into production adherence, reducing manual reporting time by 25%.
+#### -Decision Support: 
+Enables managers to identify bottlenecks instantly and reallocate resources to maintain delivery commitments.
 
 
 # 2. Forecast Demand Planning Outlook
