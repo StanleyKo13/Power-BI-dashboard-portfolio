@@ -17,11 +17,11 @@ Power BI (Advanced DAX), SQL.
 
 ## Key Business Impact
 
-#### -Root Cause Identification: 
+### -Root Cause Identification: 
 Categorizes "Job Miss" reasons (e.g., material shortage, headcount, equipment) to drive data-driven accountability across departments.
-#### -Performance Transparency: 
+### -Performance Transparency: 
 Provides real-time visibility into production adherence, reducing manual reporting time by 25%.
-#### -Decision Support: 
+### -Decision Support: 
 Enables managers to identify bottlenecks instantly and reallocate resources to maintain delivery commitments.
 
 
@@ -38,9 +38,12 @@ Power BI, Statistical Forecasting, Scenario Planning.
 
 ## Key Business Impact
 
-#### -Strategic Alignment: Translates complex demand signals into 18-month rolling forecasts to align billion-dollar revenue goals with supply capabilities.
-#### -Seasonality Insight: Identifies high/low demand periods (holidays, special events) to optimize inventory buffer strategies.
-#### -Drill-Down Capability: Allows stakeholders to navigate from high-level categories down to individual SKU performance seamlessly.
+### -Strategic Alignment: 
+Translates complex demand signals into 18-month rolling forecasts to align billion-dollar revenue goals with supply capabilities.
+### -Seasonality Insight: 
+Identifies high/low demand periods (holidays, special events) to optimize inventory buffer strategies.
+### -Drill-Down Capability: 
+Allows stakeholders to navigate from high-level categories down to individual SKU performance seamlessly.
 
 # 3. Material Shortage Overview
 
