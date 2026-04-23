@@ -58,9 +58,12 @@ Power BI, MRP Integration, Risk Modeling.
 
 ## Key Business Impact
 
-#### -Revenue Protection: Predicts potential future shortages, allowing the team to secure alternative supply sources before production downtime occurs.
-#### -Supplier Performance: Highlights frequent shortage patterns associated with specific suppliers to improve procurement negotiations.
-#### -Proactive Mitigation: Links demand forecasts with material lead times to calculate the "Shortage Gap" in real-time.
+### -Revenue Protection: 
+Predicts potential future shortages, allowing the team to secure alternative supply sources before production downtime occurs.
+### -Supplier Performance: 
+Highlights frequent shortage patterns associated with specific suppliers to improve procurement negotiations.
+### -Proactive Mitigation: 
+Links demand forecasts with material lead times to calculate the "Shortage Gap" in real-time.
 
 # 4. Available to Promise Analytical Tool
 
@@ -75,10 +78,14 @@ Power BI, DAX, SQL, Oracle/ERP Data Integration.
 
 ## Key Insights
 
-#### -Automated Decision Making: Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
-#### -Risk Mitigation: Identifies potential supply gaps up to 4 weeks in advance, allowing proactive buffer stock adjustments.
-#### -Cross-Functional Alignment: Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 100% data transparency.
-#### -Visualizes the timing and quantity of expected inventory arrivals.
+### -Automated Decision Making: 
+Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
+### -Risk Mitigation: 
+Identifies potential supply gaps up to 4 weeks in advance, allowing proactive buffer stock adjustments.
+### -Cross-Functional Alignment: 
+Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 100% data transparency.
+### -Visualization information:
+Visualizes the timing and quantity of expected inventory arrivals.
   
 # 5. Key Customers Capacity Allocation Project
 
@@ -94,9 +101,12 @@ Power BI, Capacity Planning, Stakeholder Analytics.
 
 ## Key Business Impact
 
-#### -Resource Optimization: Visualizes the distribution of capacity across key accounts to prevent over/under-utilization of manufacturing lines.
-#### -Priority Management: Ensures "Must-Win" customer demands are prioritized during peak cycles or material constraints.
-#### -Analyzes past allocation patterns to guide future multi-year capacity investment decisions.
+### -Resource Optimization: 
+Visualizes the distribution of capacity across key accounts to prevent over/under-utilization of manufacturing lines.
+### -Priority Management: 
+Ensures "Must-Win" customer demands are prioritized during peak cycles or material constraints.
+### -Historical Analysis:
+Analyzes past allocation patterns to guide future multi-year capacity investment decisions.
 
 # 6. Production Capacity vs Sales Order Demand
 
@@ -112,6 +122,9 @@ Power BI, S&OP Modeling, Predictive Analytics.
 
 ## Key Business Impact
 
-#### -Scalability Analysis: Displays real-time capacity utilization percentage, identifying when and where to scale production infrastructure.
-#### -Gap Closure: Side-by-side charts highlight "Supply-Demand Mismatches," enabling faster S&OP (Sales and Operations Planning) resolution.
-#### -Predictive Planning: Incorporates sales forecasts to simulate "What-If" scenarios, optimizing long-term capital expenditure.
+### -Scalability Analysis: 
+Displays real-time capacity utilization percentage, identifying when and where to scale production infrastructure.
+### -Gap Closure: 
+Side-by-side charts highlight "Supply-Demand Mismatches," enabling faster S&OP (Sales and Operations Planning) resolution.
+### -Predictive Planning: 
+Incorporates sales forecasts to simulate "What-If" scenarios, optimizing long-term capital expenditure.
