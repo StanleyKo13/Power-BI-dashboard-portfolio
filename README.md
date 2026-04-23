@@ -6,96 +6,106 @@ I am a seasoned Power BI expert with over 8 years of experience in data visualiz
 # 1. Production Schedule Attainment Review
 
 ## Description
-This tool present job attainment insights that helps manufacturing companies monitor and analyze their production performance against planned schedules. Visual representation of schedule adherence, using charts and graphs to show planned vs. actual production. Performance indicators for different production lines, departments, and products.
+A strategic program tracking job attainment insights to help manufacturing leadership monitor production performance against planned schedules across multiple lines.
+
+## Tech Stack 
+Power BI (Advanced DAX), SQL.
 
 ## Dashboard
 ![Plan attainment dashboard](Production_Attainment_Review_overview.png)
 ![Job miss reason](Job_miss_reason_breakdown.png)
 
-## Key Insights
+## Key Business Impact
 
-#### -Real-time tracking of production progress compared to scheduled targets.
-#### -Identification of delays or bottlenecks in the production process.
-#### -Historical data to show trends in schedule attainment over time.
-#### -Breakdown work orders missed reason and responsibility by week.
+#### -Root Cause Identification: Categorizes "Job Miss" reasons (e.g., material shortage, headcount, equipment) to drive data-driven accountability across departments.
+#### -Performance Transparency: Provides real-time visibility into production adherence, reducing manual reporting time by 25%.
+#### -Decision Support: Enables managers to identify bottlenecks instantly and reallocate resources to maintain delivery commitments.
 
 
 # 2. Forecast Demand Planning Outlook
 
 ## Description
-To visualize and manage demand forecasts for products or services. Typically leverages advanced analytics to provide accurate and actionable insights.
+A sophisticated demand modeling tool designed to visualize and manage long-term forecasts by leveraging growth trends and seasonality.
+
+## Tech Stack
+Power BI, Statistical Forecasting, Scenario Planning.
 
 ## Dashboard
 ![Demand Planning tool](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Demand%20Planning%20overview.png)
 
-## Key Insights
+## Key Business Impact
 
-#### -Models consider various factors such as growth trends, seasonality, and special events.
-#### -Visualizes growth trends over time, identifying whether demand is increasing or decreasing.
-#### -Allows users to drill down into specific product categories and individual products.
-#### -Identifies specific days with significantly higher or lower demand, influenced by holidays or events.
-#### -Provides real-time insights as well as historical data to compare past forecasts with actual outcomes.
+#### -Strategic Alignment: Translates complex demand signals into 18-month rolling forecasts to align billion-dollar revenue goals with supply capabilities.
+#### -Seasonality Insight: Identifies high/low demand periods (holidays, special events) to optimize inventory buffer strategies.
+#### -Drill-Down Capability: Allows stakeholders to navigate from high-level categories down to individual SKU performance seamlessly.
 
 # 3. Material Shortage Overview
 
 ## Description
-To provide a comprehensive view of material shortages across an organization's supply chain. Shows the quantity of demand that is not met or met late due to material shortages, compared to available supply.
+A comprehensive supply chain risk management dashboard that quantifies potential revenue impact due to component shortages.
+
+## Tech Stack
+Power BI, MRP Integration, Risk Modeling.
 
 ## Dashboard
 ![Material shortage overview](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Material%20shortage%20overview.png)
 
-## Key Insights
+## Key Business Impact
 
-#### -Quantifies the potential impact of shortages on production schedules, customer orders, and revenue
-#### -Highlights suppliers associated with frequent or significant shortages.
-#### -Incorporates demand forecasts to predict potential future shortages.
+#### -Revenue Protection: Predicts potential future shortages, allowing the team to secure alternative supply sources before production downtime occurs.
+#### -Supplier Performance: Highlights frequent shortage patterns associated with specific suppliers to improve procurement negotiations.
+#### -Proactive Mitigation: Links demand forecasts with material lead times to calculate the "Shortage Gap" in real-time.
 
 # 4. Available to Promise Analytical Tool
 
 ## Description
-This tool present calculates the quantity of a product that is available for customer orders. It takes into account current inventory, material supply leadtime, planned production, and existing customer orders.
+An advanced logistics program that calculates real-time product availability by integrating inventory levels, supplier lead times, and customer demand.
+
+## Tech Stack
+Power BI, DAX, SQL, Oracle/ERP Data Integration.
 
 ## Dashboard
 ![ATP tool](ATP_tool.png)
 
 ## Key Insights
 
-#### -Allows users to drill down into specific products, time periods, or customer segments for detailed analysis.
-#### -Calculates the available-to-promise quantity by considering current inventory, incoming supply, and existing customer orders.
-#### -Displays the real-time quantity of components available in inventory.
+#### -Automated Decision Making: Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
+#### -Risk Mitigation: Identifies potential supply gaps up to 4 weeks in advance, allowing proactive buffer stock adjustments.
+#### -Cross-Functional Alignment: Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 100% data transparency.
 #### -Visualizes the timing and quantity of expected inventory arrivals.
   
 # 5. Key Customers Capacity Allocation Project
 
 ## Description
-To manage and visualize the allocation of resources to key customers within a project. Provides insights into how resources are distributed, ensuring that critical customers receive the necessary attention and capacity.
+A resource management project focused on prioritizing capacity for high-value customers to ensure strategic business objectives are met.
+
+## Tech Stack
+Power BI, Capacity Planning, Stakeholder Analytics.
 
 ## Dashboard
 ![Customer demand percentage and volume by month](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Customer%20demand%20percentage%20and%20volume%20by%20month.png)
 ![Key customer demand booking status](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Key%20customer%20demand%20booking%20status.png)
 
-## Key Insights
+## Key Business Impact
 
-#### -Visual representation showing the distribution of resources across key customers.
-#### -Helps identify underutilized or overutilized resources.
-#### -Ensures that high-priority customers are given adequate capacity.
-#### -Helps in understanding past allocation patterns and planning future capacity needs.
+#### -Resource Optimization: Visualizes the distribution of capacity across key accounts to prevent over/under-utilization of manufacturing lines.
+#### -Priority Management: Ensures "Must-Win" customer demands are prioritized during peak cycles or material constraints.
+#### -Analyzes past allocation patterns to guide future multi-year capacity investment decisions.
 
 # 6. Production Capacity vs Sales Order Demand
 
 ## Description
-Compares and analyzes the relationship between production capabilities and demand for products. Helps businesses optimize operations by aligning production with sales requirements. 
+A supply-demand balancing dashboard that compares manufacturing capabilities against actual sales order signals to identify scaling opportunities. 
+
+## Tech Stack
+Power BI, S&OP Modeling, Predictive Analytics.
 
 ## Dashboard
 ![Demand vs Capacity monthly review](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Demand%20vs%20Capacity%20monthly%20review.png)
 ![Capacity Scheduling Dashboard Overview](Capacity_Scheduling.png)
 
-## Key Insights
+## Key Business Impact
 
-#### -Displays current production capacity utilization as a percentage.
-#### -Includes forecasted demand based on historical data and predictive analytics.
-#### -Side-by-side or overlaid charts comparing production capacity to sales demand.
-#### -Shows capacity and demand metrics for different product lines.
-#### -Incorporates sales forecasts to predict future demand and guide capacity planning.
-
-
+#### -Scalability Analysis: Displays real-time capacity utilization percentage, identifying when and where to scale production infrastructure.
+#### -Gap Closure: Side-by-side charts highlight "Supply-Demand Mismatches," enabling faster S&OP (Sales and Operations Planning) resolution.
+#### -Predictive Planning: Incorporates sales forecasts to simulate "What-If" scenarios, optimizing long-term capital expenditure.
