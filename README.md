@@ -1,12 +1,14 @@
-# Power BI Projects Portfolio
+# Strategic Supply Chain Analytics & Power BI Portfolio
 
 # About Me
 I am a seasoned Power BI expert with over 8 years of experience in data visualization and business intelligence. My advanced skills include complex DAX formulas, efficient data modeling, and sophisticated data transformation using Power Query. I excel in creating custom visuals, optimizing performance, and integrating Power BI with various platforms. My passion lies in transforming raw data into actionable insights, enabling data-driven decision-making for organizations. 
 
-# 1. Available to Promise Analytical Tool
+My "builder" DNA is focused on scaling systems and optimizing costs: I have architected tools that directly enabled $1.2B in annual revenue and identified $50M in cost-savings through data-driven intelligence.
+
+# 1. Automated Revenue Enablement: ATP & Fulfillment Engine
 
 ## Description
-An advanced logistics program that calculates real-time product availability by integrating inventory levels, supplier lead times, and customer demand.
+An enterprise-grade logistics solution architected to synchronize global supply with real-time demand. This tool replaces manual planning with automated logic to provide instant lead-time commitments.
 
 ## Tech Stack
 Power BI, DAX, SQL, Oracle/ERP Data Integration.
@@ -14,7 +16,7 @@ Power BI, DAX, SQL, Oracle/ERP Data Integration.
 ## Dashboard
 ![ATP tool](ATP_tool.png)
 
-## Key Insights
+## Key Business Impact
 
 ### -Automated Decision Making: 
 Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
@@ -26,10 +28,10 @@ Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 1
 Visualizes the timing and quantity of expected inventory arrivals.
 
 
-# 2. Forecast Demand Planning Outlook
+# 2. Strategic SIOP: 18-Month Demand Architecture
 
 ## Description
-A sophisticated demand modeling tool designed to visualize and manage long-term forecasts by leveraging growth trends and seasonality.
+A sophisticated demand modeling engine designed to visualize long-term trajectories by leveraging growth trends, seasonality, and market signals.
 
 ## Tech Stack
 Power BI, Statistical Forecasting, Scenario Planning.
@@ -47,13 +49,13 @@ Identifies high/low demand periods (holidays, special events) to optimize invent
 Allows stakeholders to navigate from high-level categories down to individual SKU performance seamlessly.
 
 
-# 3. Material Shortage Overview
+# 3. Supply Chain Risk Intelligence & Revenue Protection Hub
 
 ## Description
-A comprehensive supply chain risk management dashboard that quantifies potential revenue impact due to component shortages.
+A comprehensive risk management dashboard that quantifies the financial impact of material shortages and supplier volatility.
 
 ## Tech Stack
-Power BI, MRP Integration, Risk Modeling.
+MRP Logic Integration, Risk Modeling, Power BI.
 
 ## Dashboard
 ![Material shortage overview](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Material%20shortage%20overview.png)
@@ -67,10 +69,10 @@ Highlights frequent shortage patterns associated with specific suppliers to impr
 ### -Proactive Mitigation: 
 Links demand forecasts with material lead times to calculate the "Shortage Gap" in real-time.
   
-# 4. Key Customers Capacity Allocation Project
+# 4. Manufacturing Cost Intelligence & E&O Mitigation Suite
 
 ## Description
-A resource management project focused on prioritizing capacity for high-value customers to ensure strategic business objectives are met.
+A financial-operations hybrid dashboard focused on inventory health and production cost transparency.
 
 ## Tech Stack
 Power BI, Capacity Planning, Stakeholder Analytics.
@@ -109,10 +111,10 @@ Side-by-side charts highlight "Supply-Demand Mismatches," enabling faster S&OP (
 ### -Predictive Planning: 
 Incorporates sales forecasts to simulate "What-If" scenarios, optimizing long-term capital expenditure.
 
-# 6. Production Schedule Attainment Review
+# 6. Operational Excellence: Schedule Attainment & Efficiency Analytics
 
 ## Description
-A strategic program tracking job attainment insights to help manufacturing leadership monitor production performance against planned schedules across multiple lines.
+A tactical performance review program tracking job attainment and labor efficiency across multiple manufacturing lines.
 
 ## Tech Stack 
 Power BI (Advanced DAX), SQL.
