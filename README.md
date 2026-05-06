@@ -3,26 +3,27 @@
 # About Me
 I am a seasoned Power BI expert with over 8 years of experience in data visualization and business intelligence. My advanced skills include complex DAX formulas, efficient data modeling, and sophisticated data transformation using Power Query. I excel in creating custom visuals, optimizing performance, and integrating Power BI with various platforms. My passion lies in transforming raw data into actionable insights, enabling data-driven decision-making for organizations. 
 
-# 1. Production Schedule Attainment Review
+# 1. Available to Promise Analytical Tool
 
 ## Description
-A strategic program tracking job attainment insights to help manufacturing leadership monitor production performance against planned schedules across multiple lines.
+An advanced logistics program that calculates real-time product availability by integrating inventory levels, supplier lead times, and customer demand.
 
-## Tech Stack 
-Power BI (Advanced DAX), SQL.
+## Tech Stack
+Power BI, DAX, SQL, Oracle/ERP Data Integration.
 
 ## Dashboard
-![Plan attainment dashboard](Production_Attainment_Review_overview.png)
-![Job miss reason](Job_miss_reason_breakdown.png)
+![ATP tool](ATP_tool.png)
 
-## Key Business Impact
+## Key Insights
 
-### -Root Cause Identification: 
-Categorizes "Job Miss" reasons (e.g., material shortage, headcount, equipment) to drive data-driven accountability across departments.
-### -Performance Transparency: 
-Provides real-time visibility into production adherence, reducing manual reporting time by 35%.
-### -Decision Support: 
-Enables managers to identify bottlenecks instantly and reallocate resources to maintain delivery commitments.
+### -Automated Decision Making: 
+Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
+### -Risk Mitigation: 
+Identifies potential supply gaps up to 4 weeks in advance, allowing proactive buffer stock adjustments.
+### -Cross-Functional Alignment: 
+Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 100% data transparency.
+### -Visualization information:
+Visualizes the timing and quantity of expected inventory arrivals.
 
 
 # 2. Forecast Demand Planning Outlook
@@ -45,6 +46,7 @@ Identifies high/low demand periods (holidays, special events) to optimize invent
 ### -Drill-Down Capability: 
 Allows stakeholders to navigate from high-level categories down to individual SKU performance seamlessly.
 
+
 # 3. Material Shortage Overview
 
 ## Description
@@ -64,30 +66,8 @@ Predicts potential future shortages, allowing the team to secure alternative sup
 Highlights frequent shortage patterns associated with specific suppliers to improve procurement negotiations.
 ### -Proactive Mitigation: 
 Links demand forecasts with material lead times to calculate the "Shortage Gap" in real-time.
-
-# 4. Available to Promise Analytical Tool
-
-## Description
-An advanced logistics program that calculates real-time product availability by integrating inventory levels, supplier lead times, and customer demand.
-
-## Tech Stack
-Power BI, DAX, SQL, Oracle/ERP Data Integration.
-
-## Dashboard
-![ATP tool](ATP_tool.png)
-
-## Key Insights
-
-### -Automated Decision Making: 
-Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
-### -Risk Mitigation: 
-Identifies potential supply gaps up to 4 weeks in advance, allowing proactive buffer stock adjustments.
-### -Cross-Functional Alignment: 
-Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 100% data transparency.
-### -Visualization information:
-Visualizes the timing and quantity of expected inventory arrivals.
   
-# 5. Key Customers Capacity Allocation Project
+# 4. Key Customers Capacity Allocation Project
 
 ## Description
 A resource management project focused on prioritizing capacity for high-value customers to ensure strategic business objectives are met.
@@ -108,7 +88,7 @@ Ensures "Must-Win" customer demands are prioritized during peak cycles or materi
 ### -Historical Analysis:
 Analyzes past allocation patterns to guide future multi-year capacity investment decisions.
 
-# 6. Production Capacity vs Sales Order Demand
+# 5. Global SIOP & Multi-Constraint Capacity Governance Hub
 
 ## Description
 A supply-demand balancing dashboard that compares manufacturing capabilities against actual sales order signals to identify scaling opportunities. 
@@ -128,3 +108,24 @@ Displays real-time capacity utilization percentage, identifying when and where t
 Side-by-side charts highlight "Supply-Demand Mismatches," enabling faster S&OP (Sales and Operations Planning) resolution.
 ### -Predictive Planning: 
 Incorporates sales forecasts to simulate "What-If" scenarios, optimizing long-term capital expenditure.
+
+# 6. Production Schedule Attainment Review
+
+## Description
+A strategic program tracking job attainment insights to help manufacturing leadership monitor production performance against planned schedules across multiple lines.
+
+## Tech Stack 
+Power BI (Advanced DAX), SQL.
+
+## Dashboard
+![Plan attainment dashboard](Production_Attainment_Review_overview.png)
+![Job miss reason](Job_miss_reason_breakdown.png)
+
+## Key Business Impact
+
+### -Root Cause Identification: 
+Categorizes "Job Miss" reasons (e.g., material shortage, headcount, equipment) to drive data-driven accountability across departments.
+### -Performance Transparency: 
+Provides real-time visibility into production adherence, reducing manual reporting time by 35%.
+### -Decision Support: 
+Enables managers to identify bottlenecks instantly and reallocate resources to maintain delivery commitments.
