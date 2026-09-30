@@ -3,7 +3,7 @@
 # About Me
 I am a seasoned Power BI expert with over 8 years of experience in data visualization and business intelligence. My advanced skills include complex DAX formulas, efficient data modeling, and sophisticated data transformation using Power Query. I excel in creating custom visuals, optimizing performance, and integrating Power BI with various platforms. My passion lies in transforming raw data into actionable insights, enabling data-driven decision-making for organizations. 
 
-My "builder" DNA is focused on scaling systems and optimizing costs: I have architected tools that directly enabled $1.2B in annual revenue and identified $50M in cost-savings through data-driven intelligence.
+My "builder" DNA is focused on scaling systems and optimizing costs: I have architected tools that directly enabled $600M in annual revenue and identified $50M in cost-savings through data-driven intelligence.
 
 # 1. Automated Revenue Enablement: ATP & Fulfillment Engine
 
