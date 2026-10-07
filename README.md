@@ -21,7 +21,7 @@ Power BI, DAX, SQL, Oracle/ERP Data Integration.
 ### -Automated Decision Making: 
 Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
 ### -Risk Mitigation: 
-Identifies potential supply gaps up to 4 weeks in advance, allowing proactive buffer stock adjustments.
+Identifies potential supply gaps up to 52 weeks in advance, allowing proactive buffer stock adjustments.
 ### -Cross-Functional Alignment: 
 Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 100% data transparency.
 ### -Visualization information:
