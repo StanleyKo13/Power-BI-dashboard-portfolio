@@ -1,9 +1,9 @@
 # Strategic Supply Chain Analytics & Power BI Portfolio
 
 # About Me
-I am a seasoned Power BI expert with over 8 years of experience in data visualization and business intelligence. My advanced skills include complex DAX formulas, efficient data modeling, and sophisticated data transformation using Power Query. I excel in creating custom visuals, optimizing performance, and integrating Power BI with various platforms. My passion lies in transforming raw data into actionable insights, enabling data-driven decision-making for organizations. 
+I am a seasoned Power BI expert with over 7 years of experience in data visualization and business intelligence. My advanced skills include complex DAX formulas, efficient data visualization, and sophisticated data transformation using Power Query. I excel in creating custom visuals, optimizing performance, and integrating Power BI with various platforms. My passion lies in transforming raw data into actionable insights, enabling data-driven decision-making for organizations. 
 
-My "builder" DNA is focused on scaling systems and optimizing costs: I have architected tools that directly enabled $600M in annual revenue and identified $50M in cost-savings through data-driven intelligence.
+My "builder" DNA is focused on scaling systems and optimizing costs: I have architected tools that directly enabled $600M in annual revenue and identified $1M in cost-savings through data-driven intelligence.
 
 # 1. Automated Revenue Enablement: ATP & Fulfillment Engine
 
@@ -11,7 +11,7 @@ My "builder" DNA is focused on scaling systems and optimizing costs: I have arch
 An enterprise-grade logistics solution architected to synchronize global supply with real-time demand. This tool replaces manual planning with automated logic to provide instant lead-time commitments.
 
 ## Tech Stack
-Power BI, DAX, SQL, Oracle/ERP Data Integration.
+Power BI, DAX, SQL(basic querying), Oracle/ERP Data Integration.
 
 ## Dashboard
 ![ATP tool](ATP_tool.png)
@@ -42,7 +42,7 @@ Power BI, Statistical Forecasting, Scenario Planning.
 ## Key Business Impact
 
 ### -Strategic Alignment: 
-Translates complex demand signals into 18-month rolling forecasts to align billion-dollar revenue goals with supply capabilities.
+Translates complex demand signals into 18-month rolling forecasts to align million-dollar revenue goals with supply capabilities.
 ### -Seasonality Insight: 
 Identifies high/low demand periods (holidays, special events) to optimize inventory buffer strategies.
 ### -Drill-Down Capability: 
@@ -117,7 +117,7 @@ Incorporates sales forecasts to simulate "What-If" scenarios, optimizing long-te
 A tactical performance review program tracking job attainment and labor efficiency across multiple manufacturing lines.
 
 ## Tech Stack 
-Power BI (Advanced DAX), SQL.
+Power BI (Advanced DAX), SQL(basic querying).
 
 ## Dashboard
 ![Plan attainment dashboard](Production_Attainment_Review_overview.png)
