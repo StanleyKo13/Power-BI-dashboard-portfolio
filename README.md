@@ -128,6 +128,6 @@ Power BI (Advanced DAX), SQL(basic querying).
 ### -Root Cause Identification: 
 Categorizes "Job Miss" reasons (e.g., material shortage, headcount, equipment) to drive data-driven accountability across departments.
 ### -Performance Transparency: 
-Provides real-time visibility into production adherence, reducing manual reporting time by 35%.
+Provides real-time visibility into production adherence, reducing manual reporting time by 30%.
 ### -Decision Support: 
 Enables managers to identify bottlenecks instantly and reallocate resources to maintain delivery commitments.
