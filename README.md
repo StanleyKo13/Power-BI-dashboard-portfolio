@@ -49,7 +49,7 @@ A Power BI planning tool I built to support available-to-promise (ATP) analysis 
 <em>Figure 1 — ATP tool: week-by-week material availability vs. demand, gaps flagged up to 52 weeks out.</em>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data</p>
+<p><strong>Tech stack:</strong> <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/SQL_(basic_querying)-336791?style=flat" alt="SQL (basic querying)"> <img src="https://img.shields.io/badge/Oracle_%2F_Epicor_ERP_data-C74634?style=flat" alt="Oracle / Epicor ERP data"></p>
 <h4>Key Business Impact</h4>
 <ul>
 <li><strong>Faster commitment checks:</strong> Automated the inventory availability checks that support order commitment decisions, replacing manual lookups</li>
@@ -94,7 +94,7 @@ A demand planning dashboard that visualizes an 18-month rolling demand outlook b
 <em>Figure 2 — 18-month demand outlook: forecast and sales-order view by quarter, category, and SKU.</em>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> Power BI (DAX), Scenario Planning</p>
+<p><strong>Tech stack:</strong> <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/Scenario_Planning-555555?style=flat" alt="Scenario Planning"></p>
 <h4>Key Business Impact</h4>
 <ul>
 <li><strong>Longer planning horizon:</strong> Translated demand signals into an 18-month rolling view to align demand with supply capabilities in SIOP reviews</li>
@@ -137,7 +137,7 @@ A dashboard that identifies material shortage risk by linking demand, material l
 <em>Figure 3 — Material shortage overview: items flagged by shortage timing and quantity against expected supply.</em>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> Power BI (DAX), MRP logic</p>
+<p><strong>Tech stack:</strong> <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/MRP_logic-555555?style=flat" alt="MRP logic"></p>
 <h4>Key Business Impact</h4>
 <ul>
 <li><strong>Earlier shortage visibility:</strong> Identified potential future shortages in time to support planning follow-up before production was affected</li>
@@ -184,7 +184,7 @@ A dashboard that shows how customer demand is distributed across months, product
 <em>Figure 4b — Key customer booking status against allocated buckets.</em>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> Power BI (DAX), Capacity Planning</p>
+<p><strong>Tech stack:</strong> <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/Capacity_Planning-555555?style=flat" alt="Capacity Planning"></p>
 <h4>Key Business Impact</h4>
 <ul>
 <li><strong>Allocation visibility:</strong> Visualized the distribution of customer demand and capacity allocation across key accounts, making over- and under-utilization easier to spot</li>
@@ -214,7 +214,7 @@ A supply–demand balancing dashboard that compares demand against manufacturing
 <em>Figure 5b — Capacity scheduling: loading, reserve, and available space by period.</em>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> Power BI (DAX), S&OP Modeling, Scenario Planning</p>
+<p><strong>Tech stack:</strong> <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/S%26OP_Modeling-555555?style=flat" alt="S&OP Modeling"> <img src="https://img.shields.io/badge/Scenario_Planning-555555?style=flat" alt="Scenario Planning"></p>
 <h4>Key Business Impact</h4>
 <ul>
 <li><strong>Capacity visibility:</strong> Displayed capacity utilization by period, identifying when and where capacity was tight</li>
@@ -244,7 +244,7 @@ A performance review dashboard tracking production schedule attainment across ma
 <em>Figure 6b — Job-miss reasons breakdown (material, manufacturing, quality, planning).</em>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> Power BI (DAX), SQL (basic querying)</p>
+<p><strong>Tech stack:</strong> <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/SQL_(basic_querying)-336791?style=flat" alt="SQL (basic querying)"></p>
 <h4>Key Business Impact</h4>
 <ul>
 <li><strong>Root cause identification:</strong> Categorized job-miss reasons (e.g., material, manufacturing, quality, planning) to support accountability discussions across departments</li>
