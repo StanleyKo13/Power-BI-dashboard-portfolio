@@ -33,9 +33,9 @@ Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data
 
 
 ### Key Business Impact
-**Faster commitment checks:** Automated the inventory availability checks that support order commitment decisions, replacing manual lookups
-**Earlier risk visibility:** Identified potential supply gaps up to 52 weeks in advance, supporting proactive buffer-stock and planning discussions
-**Shared planning view:** Presented manufacturing receipts and U.S. sales demand in one view, so planning and sales worked from the same availability picture
+- **Faster commitment checks:** Automated the inventory availability checks that support order commitment decisions, replacing manual lookups
+- **Earlier risk visibility:** Identified potential supply gaps up to 52 weeks in advance, supporting proactive buffer-stock and planning discussions
+- **Shared planning view:** Presented manufacturing receipts and U.S. sales demand in one view, so planning and sales worked from the same availability picture
 
 **Decision supported:** Whether to commit a delivery date, move it, or flag the order for a supply discussion before committing.
 
@@ -54,19 +54,16 @@ Power BI (DAX), Scenario Planning
 ![Demand Planning tool](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Demand%20Planning%20overview.png)
 
 ### Methodology & Business Logic
-**Demand inputs:** Forecast demand provided for planning review, organized by category and SKU over an 18-month horizon
-
-**Comparison:** The rolling demand outlook is reviewed against supply capability as part of the SIOP process
-
-**Output:** Seasonal high/low periods and SKU-level drill-down views for planning discussion
-
-**Note:** This dashboard visualizes and structures forecast inputs for review. It does not claim a proprietary statistical forecasting model.
+- **Demand inputs:** Forecast demand provided for planning review, organized by category and SKU over an 18-month horizon
+- **Comparison:** The rolling demand outlook is reviewed against supply capability as part of the SIOP process
+- **Output:** Seasonal high/low periods and SKU-level drill-down views for planning discussion
+- **Note:** This dashboard visualizes and structures forecast inputs for review. It does not claim a proprietary statistical forecasting model.
 
 ### Key Business Impact
 
-**Longer planning horizon:** Translated demand signals into an 18-month rolling view to align demand with supply capabilities in SIOP reviews
-**Seasonality insight:** Made high- and low-demand periods visible to support inventory buffer discussions
-**Drill-down capability:** Allowed stakeholders to move from high-level categories down to individual SKU performance
+- **Longer planning horizon:** Translated demand signals into an 18-month rolling view to align demand with supply capabilities in SIOP reviews
+- **Seasonality insight:** Made high- and low-demand periods visible to support inventory buffer discussions
+- **Drill-down capability:** Allowed stakeholders to move from high-level categories down to individual SKU performance
 
 **Decision supported:** How to position inventory and supply plans ahead of seasonal demand changes.
 
@@ -85,19 +82,16 @@ Power BI (DAX), MRP logic
 ![Material shortage overview](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Material%20shortage%20overview.png)
 
 ### Methodology & Business Logic
-**Demand:** Forecast and order demand by item
-
-**Supply constraints:** Material lead times and expected availability
-
-**Logic:** Demand is compared against expected supply timing to calculate the shortage gap — which items are short, by how much, and starting when
-
-**Output:** A prioritized shortage view for planning follow-up
+- **Demand:** Forecast and order demand by item
+- **Supply constraints:** Material lead times and expected availability
+- **Logic:** Demand is compared against expected supply timing to calculate the shortage gap — which items are short, by how much, and starting when
+- **Output:** A prioritized shortage view for planning follow-up
 
 ### Key Business Impact
 
-**Earlier shortage visibility:** Identified potential future shortages in time to support planning follow-up before production was affected
-**Recurring risk patterns:** Highlighted frequent shortage patterns by item and supplier, to flag recurring supply risks earlier
-**Proactive mitigation:** Linked demand forecasts with material lead times to calculate the shortage gap for review
+- **Earlier shortage visibility:** Identified potential future shortages in time to support planning follow-up before production was affected
+- **Recurring risk patterns:** Highlighted frequent shortage patterns by item and supplier, to flag recurring supply risks earlier
+- **Proactive mitigation:** Linked demand forecasts with material lead times to calculate the shortage gap for review
 
 **Decision supported:** Which shortages to escalate first, and where to focus follow-up with planning and purchasing counterparts.
 
@@ -118,9 +112,9 @@ Power BI (DAX), Capacity Planning
 
 ### Key Business Impact
 
-**Allocation visibility:** Visualized the distribution of customer demand and capacity allocation across key accounts, making over- and under-utilization easier to spot
-**Priority review:** Helped review whether key customer demand was booked within its allocation during peak cycles or material constraints
-**Historical analysis:** Analyzed past allocation patterns to support future capacity planning discussions
+- **Allocation visibility:** Visualized the distribution of customer demand and capacity allocation across key accounts, making over- and under-utilization easier to spot
+- **Priority review:** Helped review whether key customer demand was booked within its allocation during peak cycles or material constraints
+- **Historical analysis:** Analyzed past allocation patterns to support future capacity planning discussions
 
 **Decision supported:** How demand should be allocated across customers and months when capacity or materials are constrained.
 
@@ -139,9 +133,9 @@ Power BI (DAX), S&OP Modeling, Scenario Planning
 
 ### Key Business Impact
 
-**Capacity visibility:** Displayed capacity utilization by period, identifying when and where capacity was tight
-**Gap closure:** Side-by-side demand vs. capacity charts highlighted supply–demand mismatches for S&OP resolution
-**Scenario planning:** Used sales forecasts to run what-if scenarios and support long-term capacity planning discussions
+- **Capacity visibility:** Displayed capacity utilization by period, identifying when and where capacity was tight
+- **Gap closure:** Side-by-side demand vs. capacity charts highlighted supply–demand mismatches for S&OP resolution
+- **Scenario planning:** Used sales forecasts to run what-if scenarios and support long-term capacity planning discussions
 
 **Decision supported:** Where demand and capacity do not balance, and which scenario to carry into the S&OP plan.
 
@@ -160,8 +154,8 @@ Power BI (DAX), SQL (basic querying)
 
 ### Key Business Impact
 
-**Root cause identification:** Categorized job-miss reasons (e.g., material, manufacturing, quality, planning) to support accountability discussions across departments
-**Performance transparency:** Provided visibility into production adherence, reducing manual reporting time by 30%
-**Decision support:** Helped managers spot recurring miss patterns and bottlenecks and discuss resource reallocation to protect delivery commitments
+- **Root cause identification:** Categorized job-miss reasons (e.g., material, manufacturing, quality, planning) to support accountability discussions across departments
+- **Performance transparency:** Provided visibility into production adherence, reducing manual reporting time by 30%
+- **Decision support:** Helped managers spot recurring miss patterns and bottlenecks and discuss resource reallocation to protect delivery commitments
 
 **Decision supported:** Which miss reasons to address first, and where schedule or resource adjustments are needed.
