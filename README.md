@@ -1,6 +1,6 @@
 # Supply Chain Planning Analytics & Power BI Portfolio
 Turning Supply Chain Data into Planning Decisions
-**Real-world planning tools for demand, supply, inventory, capacity, and operational execution.**
+- **Real-world planning tools for demand, supply, inventory, capacity, and operational execution.**
 
 Built from actual supply chain planning work, these dashboards translate ERP and operational data into actionable visibility for planning decisions, risk identification, and resource allocation.
 
