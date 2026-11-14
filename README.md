@@ -56,8 +56,7 @@ A Power BI planning tool I built to support available-to-promise (ATP) analysis 
 </ul>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> 
-  <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/SQL_(basic_querying)-336791?style=flat" alt="SQL (basic querying)"> <img src="https://img.shields.io/badge/Oracle_%2F_Epicor_ERP_data-C74634?style=flat" alt="Oracle / Epicor ERP data"></p>
+<p><strong>Tech stack:</strong><img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/SQL_(basic_querying)-336791?style=flat" alt="SQL (basic querying)"> <img src="https://img.shields.io/badge/Oracle_%2F_Epicor_ERP_data-C74634?style=flat" alt="Oracle / Epicor ERP data"></p>
 <p><strong>Decision supported:</strong> Whether to commit a delivery date, move it, or flag the order for a supply discussion before committing.</p>
 </td>
 </tr>
@@ -103,8 +102,7 @@ A demand planning dashboard that visualizes an 18-month rolling demand outlook b
 </ul>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> 
-  <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/Scenario_Planning-555555?style=flat" alt="Scenario Planning"></p>
+<p><strong>Tech stack:</strong><img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/Scenario_Planning-555555?style=flat" alt="Scenario Planning"></p>
 <p><strong>Decision supported:</strong> How to position inventory and supply plans ahead of seasonal demand changes.</p>
 </td>
 </tr>
@@ -148,8 +146,7 @@ A dashboard that identifies material shortage risk by linking demand, material l
 </ul>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> 
-  <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/MRP_logic-555555?style=flat" alt="MRP logic"></p>
+<p><strong>Tech stack:</strong><img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/MRP_logic-555555?style=flat" alt="MRP logic"></p>
 <p><strong>Decision supported:</strong> Which shortages to escalate first, and where to focus follow-up with planning and purchasing counterparts.</p>
 </td>
 </tr>
@@ -197,8 +194,7 @@ A dashboard that shows how customer demand is distributed across months, product
 </ul>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> 
-  <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/Capacity_Planning-555555?style=flat" alt="Capacity Planning"></p>
+<p><strong>Tech stack:</strong><img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/Capacity_Planning-555555?style=flat" alt="Capacity Planning"></p>
 <p><strong>Decision supported:</strong> How demand should be allocated across customers and months when capacity or materials are constrained.</p>
 </td>
 </tr>
@@ -229,8 +225,7 @@ A supply–demand balancing dashboard that compares demand against manufacturing
 </ul>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> 
-  <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/S%26OP_Modeling-555555?style=flat" alt="S&OP Modeling"> <img src="https://img.shields.io/badge/Scenario_Planning-555555?style=flat" alt="Scenario Planning"></p>
+<p><strong>Tech stack:</strong><img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/S%26OP_Modeling-555555?style=flat" alt="S&OP Modeling"> <img src="https://img.shields.io/badge/Scenario_Planning-555555?style=flat" alt="Scenario Planning"></p>
 <p><strong>Decision supported:</strong> Where demand and capacity do not balance, and which scenario to carry into the S&OP plan.</p>
 </td>
 </tr>
@@ -261,8 +256,7 @@ A performance review dashboard tracking production schedule attainment across ma
 </ul>
 </td>
 <td width="45%" valign="top">
-<p><strong>Tech stack:</strong> 
-  <img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/SQL_(basic_querying)-336791?style=flat" alt="SQL (basic querying)"></p>
+<p><strong>Tech stack:</strong><img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI (DAX)"> <img src="https://img.shields.io/badge/SQL_(basic_querying)-336791?style=flat" alt="SQL (basic querying)"></p>
 <p><strong>Decision supported:</strong> Which miss reasons to address first, and where schedule or resource adjustments are needed.</p>
 </td>
 </tr>
