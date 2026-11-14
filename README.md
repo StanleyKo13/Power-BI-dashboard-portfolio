@@ -24,17 +24,12 @@ Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data
 
 ## Methodology & Business Logic
 
-**Demand:** Open orders and forecast demand by item
-
-**Supply:** On-hand inventory and expected inventory arrivals, by timing and quantity
-
-**Lead time:** A fixed lead-time value for each item (the value differs by item)
-
-**Logic:** Projected supply is compared against demand week by week to identify material gaps up to 52 weeks ahead
-
-**Commit-date basis:** The feasible commit date is based on the arrival date of the last required material — the latest material arrival among all items needed for the order
-
-**Output:** A commit-date recommendation and a view of where supply gaps would occur if demand was accepted as requested
+**Demand:** -Open orders and forecast demand by item
+**Supply:** -On-hand inventory and expected inventory arrivals, by timing and quantity
+**Lead time:** -A fixed lead-time value for each item (the value differs by item)
+**Logic:** -Projected supply is compared against demand week by week to identify material gaps up to 52 weeks ahead
+**Commit-date basis:** -The feasible commit date is based on the arrival date of the last required material — the latest material arrival among all items needed for the order
+**Output:** -A commit-date recommendation and a view of where supply gaps would occur if demand was accepted as requested
 
 
 ## Key Business Impact
@@ -60,8 +55,11 @@ Power BI (DAX), Scenario Planning
 
 ## Methodology & Business Logic
 **Demand inputs:** Forecast demand provided for planning review, organized by category and SKU over an 18-month horizon
+
 **Comparison:** The rolling demand outlook is reviewed against supply capability as part of the SIOP process
+
 **Output:** Seasonal high/low periods and SKU-level drill-down views for planning discussion
+
 **Note:** This dashboard visualizes and structures forecast inputs for review. It does not claim a proprietary statistical forecasting model.
 
 ## Key Business Impact
@@ -88,8 +86,11 @@ Power BI (DAX), MRP logic
 
 ## Methodology & Business Logic
 **Demand:** Forecast and order demand by item
+
 **Supply constraints:** Material lead times and expected availability
+
 **Logic:** Demand is compared against expected supply timing to calculate the shortage gap — which items are short, by how much, and starting when
+
 **Output:** A prioritized shortage view for planning follow-up
 
 ## Key Business Impact
