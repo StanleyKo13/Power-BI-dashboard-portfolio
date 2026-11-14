@@ -1,4 +1,8 @@
 # Supply Chain Planning Analytics & Power BI Portfolio
+Turning Supply Chain Data into Planning Decisions
+**Real-world planning tools for demand, supply, inventory, capacity, and operational execution.**
+
+Built from actual supply chain planning work, these dashboards translate ERP and operational data into actionable visibility for planning decisions, risk identification, and resource allocation.
 
 ## About Me
 I am a supply chain planning professional with over 7 years of experience using Power BI for data visualization and business intelligence. My strength is data visualization: turning ERP and operational data into planning dashboards that cover demand, supply, capacity, inventory, and schedule attainment. I work with Power BI (DAX measures) and Excel / Power Query to organize report data, and with SQL (basic querying).
