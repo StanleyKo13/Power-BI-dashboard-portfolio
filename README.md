@@ -235,7 +235,7 @@ A supply–demand balancing dashboard that compares demand against manufacturing
 
 ## 6. Operational Excellence: Schedule Attainment & Job-Miss Analysis
 
-A performance review dashboard tracking production schedule attainment across manufacturing lines, with a breakdown of job-miss reasons.
+Performance transparency: Provided visibility into production adherence and labor efficiency across manufacturing lines, reducing manual reporting time by 30%
 
 ![Plan attainment dashboard](Production_Attainment_Review_overview.png)
 
