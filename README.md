@@ -24,12 +24,12 @@ Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data
 
 ### Methodology & Business Logic
 
--**Demand:** Open orders and forecast demand by item
--**Supply:** On-hand inventory and expected inventory arrivals, by timing and quantity
--**Lead time:** A fixed lead-time value for each item (the value differs by item)
--**Logic:** Projected supply is compared against demand week by week to identify material gaps up to 52 weeks ahead
--**Commit-date basis:** The feasible commit date is based on the arrival date of the last required material — the latest material arrival among all items needed for the order
--**Output:** A commit-date recommendation and a view of where supply gaps would occur if demand was accepted as requested
+- **Demand:** Open orders and forecast demand by item
+- **Supply:** On-hand inventory and expected inventory arrivals, by timing and quantity
+- **Lead time:** A fixed lead-time value for each item (the value differs by item)
+- **Logic:** Projected supply is compared against demand week by week to identify material gaps up to 52 weeks ahead
+- **Commit-date basis:** The feasible commit date is based on the arrival date of the last required material — the latest material arrival among all items needed for the order
+- **Output:** A commit-date recommendation and a view of where supply gaps would occur if demand was accepted as requested
 
 
 ### Key Business Impact
