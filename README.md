@@ -20,7 +20,7 @@ A Power BI planning tool I built to support available-to-promise (ATP) analysis 
 Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data
 
 ### Dashboard
-![ATP tool](ATP_tool.png)(https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/)
+![ATP tool](ATP_tool.png)
 
 ### Methodology & Business Logic
 
@@ -51,7 +51,7 @@ A demand planning dashboard that visualizes an 18-month rolling demand outlook b
 Power BI (DAX), Scenario Planning
 
 ### Dashboard
-![Demand Planning tool]
+![Demand Planning tool](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Demand%20Planning%20overview.png)
 
 ### Methodology & Business Logic
 - **Demand inputs:** Forecast demand provided for planning review, organized by category and SKU over an 18-month horizon
