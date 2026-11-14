@@ -20,7 +20,7 @@ A Power BI planning tool I built to support available-to-promise (ATP) analysis 
 Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data
 
 ### Dashboard
-![ATP tool](ATP_tool.png)
+![ATP tool](ATP_tool.png)(https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/)
 
 ### Methodology & Business Logic
 
