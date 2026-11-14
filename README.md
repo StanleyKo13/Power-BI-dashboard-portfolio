@@ -38,7 +38,7 @@ Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data
 
 **Decision supported:** Whether to commit a delivery date, move it, or flag the order for a supply discussion before committing.
 
-**Limitations:** This is a planning analysis tool. Its outputs depend on the accuracy and refresh timing of the underlying demand, inventory, and supply data, and it does not by itself guarantee supplier delivery or customer fulfillment.
+**Limitations:** Lead times are entered as a fixed value per item, but actual arrival dates vary — so gap projections further out in the 52-week horizon are less certain than near-term results.
 
 
 # 2. Strategic SIOP: 18-Month Demand Planning
@@ -94,7 +94,7 @@ Power BI (DAX), MRP logic
 
 **Decision supported:** Which shortages to escalate first, and where to focus follow-up with planning and purchasing counterparts.
 
-**Limitations:** This dashboard highlights potential shortage risk based on the available planning data. It does not identify or qualify alternative suppliers, guarantee supply recovery, or confirm that production downtime will occur.
+**Limitations:** Shortage timing is based on current demand, lead times, and expected supply — if those inputs change, the shortage picture changes with them.
 
   
 # 4. Customer Demand Allocation & Booking Status
