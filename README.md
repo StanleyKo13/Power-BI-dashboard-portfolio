@@ -45,7 +45,7 @@ A Power BI planning tool I built to support available-to-promise (ATP) analysis 
 
 **Decision supported:** Whether to commit a delivery date, move it, or flag the order for a supply discussion before committing.
 
-<details>
+<details open>
 <summary><strong>Methodology & Business Logic</strong></summary>
 
 - **Demand:** Open orders and forecast demand by item
@@ -57,7 +57,7 @@ A Power BI planning tool I built to support available-to-promise (ATP) analysis 
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Limitations</strong></summary>
 
 Lead times are entered as a fixed value per item, but actual arrival dates vary — so gap projections further out in the 52-week horizon are less certain than near-term results.
@@ -84,7 +84,7 @@ A demand planning dashboard that visualizes an 18-month rolling demand outlook b
 
 **Decision supported:** How to position inventory and supply plans ahead of seasonal demand changes.
 
-<details>
+<details open>
 <summary><strong>Methodology & Business Logic</strong></summary>
 
 - **Demand inputs:** Forecast demand provided for planning review, organized by category and SKU over an 18-month horizon
@@ -94,7 +94,7 @@ A demand planning dashboard that visualizes an 18-month rolling demand outlook b
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Limitations</strong></summary>
 
 A planning forecast is an estimate, not a confirmed customer commitment. The quality of the outlook depends on the forecast inputs and assumptions provided for review.
@@ -121,7 +121,7 @@ A dashboard that identifies material shortage risk by linking demand, material l
 
 **Decision supported:** Which shortages to escalate first, and where to focus follow-up with planning and purchasing counterparts.
 
-<details>
+<details open>
 <summary><strong>Methodology & Business Logic</strong></summary>
 
 - **Demand:** Forecast and order demand by item
@@ -131,7 +131,7 @@ A dashboard that identifies material shortage risk by linking demand, material l
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Limitations</strong></summary>
 
 Shortage timing is based on current demand, lead times, and expected supply — if those inputs change, the shortage picture changes with them.
