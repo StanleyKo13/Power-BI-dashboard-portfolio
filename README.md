@@ -1,31 +1,58 @@
-# Strategic Supply Chain Analytics & Power BI Portfolio
+# Supply Chain Planning Analytics & Power BI Portfolio
 
 # About Me
-I am a seasoned Power BI expert with over 7 years of experience in data visualization and business intelligence. My advanced skills include complex DAX formulas, efficient data visualization, and sophisticated data transformation using Power Query. I excel in creating custom visuals, optimizing performance, and integrating Power BI with various platforms. My passion lies in transforming raw data into actionable insights, enabling data-driven decision-making for organizations. 
+I am a supply chain planning professional with over 7 years of experience using Power BI for data visualization and business intelligence. My strength is data visualization: turning ERP and operational data into planning dashboards that cover demand, supply, capacity, inventory, and schedule attainment. I work with Power BI (DAX measures) and Excel / Power Query to organize report data, and with SQL (basic querying).
 
-My "builder" DNA is focused on scaling systems and optimizing costs: I have architected tools that directly enabled $600M in annual revenue and identified $1M in cost-savings through data-driven intelligence.
+## Background, separate from the dashboards below: 
+In my planning roles at Fox Factory (Gainesville, GA and Taichung, Taiwan), I supported ~$600M in annual revenue (Taiwan operations) and contributed to $1M in inventory cost savings. The projects in this portfolio illustrate the planning workflows behind that work. They are examples of the analysis tools I built and used — they are not presented as the sole cause of those business results.
 
-# 1. Automated Revenue Enablement: ATP & Fulfillment Engine
+## A note on this repository: 
+These projects are based on planning tools and dashboards from my actual planning work. This repository contains dashboard screenshots only — the underlying .pbix files and company data are not published — so each project below describes its data inputs, calculation logic, and the decisions the analysis supported, in place of the source files.
+
+## How I approach each project: 
+Business problem → Data & assumptions → Analytical logic → Key findings → Decision supported → Limitations.
+
+
+
+# 1. ATP & Fulfillment Planning
 
 ## Description
-An enterprise-grade logistics solution architected to synchronize global supply with real-time demand. This tool replaces manual planning with automated logic to provide instant lead-time commitments.
+A Power BI planning tool I built to support available-to-promise (ATP) analysis and delivery-date commitments. It was used to check material availability against demand before forecast demand was converted into orders, and to test whether earlier customer order requests could be met.
 
 ## Tech Stack
-Power BI, DAX, SQL(basic querying), Oracle/ERP Data Integration.
+Power BI (DAX), SQL (basic querying), Oracle / Epicor ERP data
 
 ## Dashboard
 ![ATP tool](ATP_tool.png)
 
-## Key Business Impact
+## Methodology & Business Logic
 
-### -Automated Decision Making: 
-Eliminated manual inventory checks, reducing order commitment time from hours to seconds.
-### -Risk Mitigation: 
-Identifies potential supply gaps up to 52 weeks in advance, allowing proactive buffer stock adjustments.
-### -Cross-Functional Alignment: 
-Synchronized global manufacturing receipts with U.S. sales forecasts to ensure 100% data transparency.
-### -Visualization information:
-Visualizes the timing and quantity of expected inventory arrivals.
+#### Demand: 
+Open orders and forecast demand by item
+#### Supply: 
+On-hand inventory and expected inventory arrivals, by timing and quantity
+#### Lead time: 
+A fixed lead-time value for each item (the value differs by item)
+#### Logic: 
+Projected supply is compared against demand week by week to identify material gaps up to 52 weeks ahead
+#### Commit-date basis: 
+The feasible commit date is based on the arrival date of the last required material — the latest material arrival among all items needed for the order
+#### Output: 
+A commit-date recommendation and a view of where supply gaps would occur if demand was accepted as requested
+
+## Key Business Impact
+#### Faster commitment checks: 
+Automated the inventory availability checks that support order commitment decisions, replacing manual lookups
+#### Earlier risk visibility: 
+Identified potential supply gaps up to 52 weeks in advance, supporting proactive buffer-stock and planning discussions
+#### Shared planning view: 
+Presented manufacturing receipts and U.S. sales demand in one view, so planning and sales worked from the same availability picture
+
+## Decision supported: 
+Whether to commit a delivery date, move it, or flag the order for a supply discussion before committing.
+
+## Limitations: 
+This is a planning analysis tool. Its outputs depend on the accuracy and refresh timing of the underlying demand, inventory, and supply data, and it does not by itself guarantee supplier delivery or customer fulfillment.
 
 
 # 2. Strategic SIOP: 18-Month Demand Architecture
