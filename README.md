@@ -51,7 +51,7 @@ A demand planning dashboard that visualizes an 18-month rolling demand outlook b
 Power BI (DAX), Scenario Planning
 
 ### Dashboard
-![Demand Planning tool](https://github.com/StanleyKo13/StanleyKo-Power-BI-dashboard-portfolio/blob/main/Demand%20Planning%20overview.png)
+![Demand Planning tool]
 
 ### Methodology & Business Logic
 - **Demand inputs:** Forecast demand provided for planning review, organized by category and SKU over an 18-month horizon
